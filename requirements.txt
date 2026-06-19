@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
 requests
 sqlalchemy
 mysql-connector-python
-=======
-streamlit
-pandas
-requests
-sqlalchemy
-mysql-connector-python
->>>>>>> e001a984a07ce756997db40c52bcf4d921037760
